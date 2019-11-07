@@ -45,6 +45,9 @@
 - git branch -d branchName
     > <p dir="rtl" align="right">حذف شاخه</p>
 
+- git clone url
+    > <p dir="rtl" align="right">پروژه ای موجود در سایتی مانند گیت هاب را در یبیتم شما  دانلود میکند</p>
+
 - git push origin master
     > <p dir="rtl" align="right">شاخه master را به origin ارسال می کند</p>
 
